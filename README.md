@@ -32,10 +32,6 @@ Este projeto foi desenvolvido como parte de uma atividade de extensão universit
 *   **Navegação:** Navigation Compose
 *   **Fluxo de Dados:** StateFlow e Coroutines para operações assíncronas e reativas.
 
-## 📱 Capturas de Tela
-
-*(Adicione aqui os links para as imagens da sua pasta de evidências após fazer o upload no GitHub)*
-> **Dica:** Para exibir imagens, use: `![Descrição](link_da_imagem.png)`
 
 ## 🔧 Como Executar o Projeto
 
